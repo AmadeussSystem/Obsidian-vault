@@ -6,91 +6,42 @@
       {
         "id": "381e5db73016f6e2",
         "type": "tabs",
+        "dimension": 46.537059538274605,
         "children": [
           {
-            "id": "ba2b849df4dfd1ac",
+            "id": "20b596bd349333bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202512261933.md",
+                "file": "01 - Projects/202512271853.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202512261933"
-            }
-          },
-          {
-            "id": "da64cbe17f3a3cee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99 - Meta/Backgrounds/requiem2_banner.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "requiem2_banner"
-            }
-          },
-          {
-            "id": "41f007cb60719118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202512261933.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202512261933"
-            }
-          },
-          {
-            "id": "2527e42cecebaa3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202512261933.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202512261933"
-            }
-          },
-          {
-            "id": "93397649de8780bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202512261933.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202512261933"
-            }
-          },
-          {
-            "id": "7b9cdeb2debe6651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202512261933.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202512261933"
+              "title": "202512271853"
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "17ecff7bbc41d35b",
+        "type": "tabs",
+        "dimension": 53.462940461725395,
+        "children": [
+          {
+            "id": "2694fa0f642bb859",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Resources/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)_bibis.ir (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)_bibis.ir (1)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -309,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,13 +289,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b9cdeb2debe6651",
+  "active": "20b596bd349333bb",
   "lastOpenFiles": [
-    "00 - Maps of Content/00 Homepage.md",
-    "202512261933.md",
-    "1-Untitled.base",
-    "Untitled.md",
+    "03 - Resources/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)_bibis.ir (1).pdf",
+    "01 - Projects/202512271853.md",
     "99 - Meta/Backgrounds/requiem2_banner.jpg",
+    "scripts/1-Untitled.base",
+    "202512261933.md",
+    "Untitled.md",
+    "00 - Maps of Content/00 Homepage.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
     "99 - Meta/Preloaded Classes/202403091325 Daily Class Preload.md",
     "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
@@ -368,12 +322,10 @@
     "06 - Periodic/02 - Monthly/2024-06.md",
     "06 - Periodic/01 - Weekly/2024-W23.md",
     "08 - Entities/01 - People/Brandon Weaver.md",
-    "07 - Meetings/2024-06-02 ID Verification.md",
     "07 - Meetings/Standups",
     "07 - Meetings/1-1s",
     "07 - Meetings",
     "06 - Periodic/00 - Daily",
-    "06 - Daily/04 - Meetings/06 - Daily/04 - Meetings",
-    "06 - Daily/04 - Meetings/06 - Daily"
+    "06 - Daily/04 - Meetings/06 - Daily/04 - Meetings"
   ]
 }

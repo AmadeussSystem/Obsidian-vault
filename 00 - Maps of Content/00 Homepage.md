@@ -1,7 +1,7 @@
 ---
 banner: "![[requiem2_banner.jpg]]"
 ---
----
+ ---
 banner: "![[requiem2_banner.jpg]]"
 banner_y: 0.5
 cssclasses: []

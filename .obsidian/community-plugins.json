@@ -31,10 +31,10 @@
   "darlal-switcher-plus",
   "periodic-notes",
   "obsidian-banners",
-  "execute-code",
   "obsidian-meta-bind-plugin",
   "metaedit",
   "js-engine",
   "ics",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code"
 ]
